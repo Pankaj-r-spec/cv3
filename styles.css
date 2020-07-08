@@ -1,0 +1,46 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: serif;
+}
+hr{
+
+  border-style: none;
+  border-top-style:dashed;
+  border-color:grey;
+
+   border-width=30%;
+   width:10%;
+
+ }
+
+.div1 {
+  background-color:#99d8d0;
+  margin: 0;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.div2{
+
+}
+
+.top-cloud{
+
+  position: absolute;
+  top: 60px;
+  right:  350px;
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+
+img{
+  border-radius: 50%;
+}
+
+table{
+text-align: center;
+}
